@@ -1,1 +1,2 @@
 Creatign a new branch is quick.
+Added in master branch.
